@@ -72,7 +72,10 @@ Ou rode pelo Visual Studio mesmo
 
 ![image](https://github.com/user-attachments/assets/00d7aab8-e8cd-4e60-81b6-4ecfd9135caa)
 
+
 ### APÓS RODAR O SCRIPT EXECUTE O MÉTODO DE RECUPERAR SENHA PARA RESETAR A SENHA ENCRIPTADA
+
+
 ```sql
 -- Inserindo usuários na tabela [User]
 INSERT INTO [User] (Name, Email, Password, CPF, Bank, WalletNumber, Balance)
